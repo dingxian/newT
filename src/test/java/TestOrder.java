@@ -20,5 +20,6 @@ public class TestOrder {
         for(Integer s:orderNums){
             System.out.println(s);
         }
+        System.out.println("远程有更新！");
     }
 }
