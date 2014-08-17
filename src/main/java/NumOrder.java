@@ -17,6 +17,7 @@ public class NumOrder {
                 }
             }
         }
+        System.out.println("本地更新");
         return nums;
     }
 }
